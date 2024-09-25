@@ -1,0 +1,1474 @@
+[{
+  "_id": {
+    "$oid": "65314e947220d01b29b882f4"
+  },
+  "name": "Fabled Legends",
+  "genres": [
+    "Survival",
+    "Singleplayer",
+    "Shooter"
+  ],
+  "year": 1998,
+  "downloads": 67175,
+  "rating": 6.7,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314eeca7cfd63511f47276"
+  },
+  "name": "Infinite Reckoning",
+  "genres": [
+    "RPG",
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 2014,
+  "downloads": 27579,
+  "rating": 2.2,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff5fd"
+  },
+  "name": "Mighty Destiny",
+  "genres": [
+    "Singleplayer",
+    "Platformer"
+  ],
+  "year": 2007,
+  "downloads": 29711,
+  "rating": 7.3,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff5fe"
+  },
+  "name": "Mythical Armada",
+  "genres": [
+    "Shooter",
+    "Multiplayer"
+  ],
+  "year": 1998,
+  "downloads": 61209,
+  "rating": 8.8,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff5ff"
+  },
+  "name": "Celestial Dawn",
+  "genres": [
+    "Battle Royale",
+    "Multiplayer",
+    "RPG"
+  ],
+  "year": 2002,
+  "downloads": 59785,
+  "rating": 6.7,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff600"
+  },
+  "name": "Steampunk Mystery",
+  "genres": [
+    "Singleplayer",
+    "RPG"
+  ],
+  "year": 1995,
+  "downloads": 41632,
+  "rating": 4.1,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff601"
+  },
+  "name": "Radiant Quest",
+  "genres": [
+    "Singleplayer",
+    "Platformer",
+    "Defense"
+  ],
+  "year": 1980,
+  "downloads": 11450,
+  "rating": 8.9,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff602"
+  },
+  "name": "Astral Exiles",
+  "genres": [
+    "Battle Royale",
+    "Horror",
+    "Multiplayer"
+  ],
+  "year": 2020,
+  "downloads": 40622,
+  "rating": 6.5,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff603"
+  },
+  "name": "Heroic Horror",
+  "genres": [
+    "Battle Royale",
+    "Multiplayer"
+  ],
+  "year": 1986,
+  "downloads": 23600,
+  "rating": 6.1,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff604"
+  },
+  "name": "Mysterious Blade",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale",
+    "Shooter"
+  ],
+  "year": 2001,
+  "downloads": 75784,
+  "rating": 5.6,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff605"
+  },
+  "name": "Surreal Relics",
+  "genres": [
+    "Singleplayer",
+    "Horror"
+  ],
+  "year": 2013,
+  "downloads": 46082,
+  "rating": 7.1,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff606"
+  },
+  "name": "Raging Dungeon",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale",
+    "Horror"
+  ],
+  "year": 1990,
+  "downloads": 988,
+  "rating": 4.9,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff607"
+  },
+  "name": "Legendary Dragon",
+  "genres": [
+    "Singleplayer",
+    "Horror",
+    "Defense"
+  ],
+  "year": 1996,
+  "downloads": 71029,
+  "rating": 4.3,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff608"
+  },
+  "name": "Mighty Destiny",
+  "genres": [
+    "Singleplayer",
+    "Platformer"
+  ],
+  "year": 1983,
+  "downloads": 66997,
+  "rating": 1.9,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff609"
+  },
+  "name": "Fabled Dragon",
+  "genres": [
+    "Singleplayer",
+    "Shooter"
+  ],
+  "year": 2017,
+  "downloads": 72246,
+  "rating": 4.5,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff60a"
+  },
+  "name": "Eternal Empires",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale",
+    "RPG"
+  ],
+  "year": 1996,
+  "downloads": 28979,
+  "rating": 1,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff60b"
+  },
+  "name": "Infinite Armada",
+  "genres": [
+    "Singleplayer",
+    "Platformer",
+    "Survival"
+  ],
+  "year": 2014,
+  "downloads": 97174,
+  "rating": 1.7,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff60c"
+  },
+  "name": "Virtual Dragon",
+  "genres": [
+    "Shooter",
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 2004,
+  "downloads": 29629,
+  "rating": 7.7,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff60d"
+  },
+  "name": "Forged Requiem",
+  "genres": [
+    "Singleplayer",
+    "Horror",
+    "RPG"
+  ],
+  "year": 1987,
+  "downloads": 48333,
+  "rating": 3.2,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff60e"
+  },
+  "name": "Heroic Fantasy",
+  "genres": [
+    "Platformer",
+    "Multiplayer"
+  ],
+  "year": 2008,
+  "downloads": 86650,
+  "rating": 5.4,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff60f"
+  },
+  "name": "Timeless Adventure",
+  "genres": [
+    "Shooter",
+    "Multiplayer",
+    "Survival"
+  ],
+  "year": 1988,
+  "downloads": 49326,
+  "rating": 6.4,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff610"
+  },
+  "name": "Celestial Exiles",
+  "genres": [
+    "Multiplayer",
+    "Platformer",
+    "RPG",
+    "Survival"
+  ],
+  "year": 1983,
+  "downloads": 41045,
+  "rating": 8.8,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff611"
+  },
+  "name": "Dark Labyrinth",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale",
+    "Defense"
+  ],
+  "year": 1996,
+  "downloads": 23895,
+  "rating": 7.7,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff612"
+  },
+  "name": "Mysterious Legend",
+  "genres": [
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 1996,
+  "downloads": 23097,
+  "rating": 5.5,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff613"
+  },
+  "name": "Virtual Requiem",
+  "genres": [
+    "Singleplayer",
+    "Survival"
+  ],
+  "year": 1989,
+  "downloads": 3025,
+  "rating": 1.6,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff614"
+  },
+  "name": "Cosmic Dungeon",
+  "genres": [
+    "Singleplayer",
+    "Horror",
+    "Platformer"
+  ],
+  "year": 2001,
+  "downloads": 72225,
+  "rating": 6.8,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff615"
+  },
+  "name": "Crimson Titans",
+  "genres": [
+    "Battle Royale",
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 1986,
+  "downloads": 52247,
+  "rating": 1.5,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff616"
+  },
+  "name": "Lost Saga",
+  "genres": [
+    "Singleplayer",
+    "Shooter",
+    "Platformer",
+    "Defense"
+  ],
+  "year": 2009,
+  "downloads": 56359,
+  "rating": 4.1,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff617"
+  },
+  "name": "Sorcerer's Quest",
+  "genres": [
+    "Horror",
+    "Multiplayer"
+  ],
+  "year": 2017,
+  "downloads": 21089,
+  "rating": 7.8,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff618"
+  },
+  "name": "Ancient Exiles",
+  "genres": [
+    "Horror",
+    "Multiplayer"
+  ],
+  "year": 1991,
+  "downloads": 77828,
+  "rating": 2.8,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff619"
+  },
+  "name": "Shadow Empires",
+  "genres": [
+    "Singleplayer",
+    "Shooter",
+    "RPG",
+    "Survival"
+  ],
+  "year": 1994,
+  "downloads": 16598,
+  "rating": 4.4,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff61a"
+  },
+  "name": "Ancient Chronicles",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale",
+    "Horror"
+  ],
+  "year": 1996,
+  "downloads": 55630,
+  "rating": 2.9,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff61b"
+  },
+  "name": "Dark Pirates",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale",
+    "Survival"
+  ],
+  "year": 1988,
+  "downloads": 37801,
+  "rating": 1,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff61c"
+  },
+  "name": "Cosmic Realm",
+  "genres": [
+    "Singleplayer",
+    "RPG"
+  ],
+  "year": 1994,
+  "downloads": 69765,
+  "rating": 4.9,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff61d"
+  },
+  "name": "Crimson Relics",
+  "genres": [
+    "Platformer",
+    "Multiplayer"
+  ],
+  "year": 1997,
+  "downloads": 70866,
+  "rating": 6.1,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff61e"
+  },
+  "name": "Forged Guardians",
+  "genres": [
+    "Singleplayer",
+    "Horror",
+    "Platformer",
+    "Defense"
+  ],
+  "year": 2004,
+  "downloads": 88222,
+  "rating": 3.6,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff61f"
+  },
+  "name": "Dark Armada",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale"
+  ],
+  "year": 1994,
+  "downloads": 18082,
+  "rating": 3.9,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff620"
+  },
+  "name": "Savage Destiny",
+  "genres": [
+    "Singleplayer",
+    "Shooter",
+    "Survival"
+  ],
+  "year": 1992,
+  "downloads": 90703,
+  "rating": 8.9,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff621"
+  },
+  "name": "Cosmic Conquest",
+  "genres": [
+    "Singleplayer",
+    "Platformer",
+    "Survival"
+  ],
+  "year": 1989,
+  "downloads": 94840,
+  "rating": 7,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff622"
+  },
+  "name": "Fiery Dragon",
+  "genres": [
+    "Singleplayer",
+    "Platformer"
+  ],
+  "year": 2001,
+  "downloads": 28670,
+  "rating": 7.6,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff623"
+  },
+  "name": "Surreal World",
+  "genres": [
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 1983,
+  "downloads": 3077,
+  "rating": 2.8,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff624"
+  },
+  "name": "Surreal Titans",
+  "genres": [
+    "Singleplayer",
+    "RPG"
+  ],
+  "year": 1993,
+  "downloads": 58900,
+  "rating": 4.6,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff625"
+  },
+  "name": "Lost Phantoms",
+  "genres": [
+    "Singleplayer",
+    "Platformer"
+  ],
+  "year": 1985,
+  "downloads": 10739,
+  "rating": 2.2,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff626"
+  },
+  "name": "Legendary Rune",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale",
+    "Defense"
+  ],
+  "year": 2019,
+  "downloads": 50894,
+  "rating": 2.7,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff627"
+  },
+  "name": "Enchanted Pioneers",
+  "genres": [
+    "Singleplayer",
+    "Defense"
+  ],
+  "year": 2007,
+  "downloads": 73552,
+  "rating": 2.2,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff628"
+  },
+  "name": "Haunted Pioneers",
+  "genres": [
+    "Battle Royale",
+    "Multiplayer"
+  ],
+  "year": 2018,
+  "downloads": 73890,
+  "rating": 1,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff629"
+  },
+  "name": "Crystal Titans",
+  "genres": [
+    "Multiplayer",
+    "Survival"
+  ],
+  "year": 2013,
+  "downloads": 31260,
+  "rating": 8.6,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff62a"
+  },
+  "name": "Infinite Infinity",
+  "genres": [
+    "Shooter",
+    "Multiplayer"
+  ],
+  "year": 1984,
+  "downloads": 77567,
+  "rating": 1,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff62b"
+  },
+  "name": "Vengeful Odyssey",
+  "genres": [
+    "Shooter",
+    "Multiplayer",
+    "Platformer",
+    "RPG"
+  ],
+  "year": 2017,
+  "downloads": 1376,
+  "rating": 4.6,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff62c"
+  },
+  "name": "Cosmic Realm",
+  "genres": [
+    "Singleplayer",
+    "Horror",
+    "RPG",
+    "Survival"
+  ],
+  "year": 2012,
+  "downloads": 19805,
+  "rating": 6.5,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff62d"
+  },
+  "name": "Virtual Dungeon",
+  "genres": [
+    "Battle Royale",
+    "Platformer",
+    "Multiplayer"
+  ],
+  "year": 2017,
+  "downloads": 12354,
+  "rating": 1.2,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff62e"
+  },
+  "name": "Vengeful Quest",
+  "genres": [
+    "Battle Royale",
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 1992,
+  "downloads": 30735,
+  "rating": 7.6,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff62f"
+  },
+  "name": "Cursed Guardians",
+  "genres": [
+    "Singleplayer",
+    "Horror",
+    "RPG"
+  ],
+  "year": 2000,
+  "downloads": 21581,
+  "rating": 3.6,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff630"
+  },
+  "name": "Cosmic Eclipse",
+  "genres": [
+    "Battle Royale",
+    "Horror",
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 2013,
+  "downloads": 12489,
+  "rating": 7.8,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff631"
+  },
+  "name": "Chaos Phantoms",
+  "genres": [
+    "Shooter",
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 2005,
+  "downloads": 49127,
+  "rating": 8.8,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff632"
+  },
+  "name": "Divine Legend",
+  "genres": [
+    "Multiplayer",
+    "RPG"
+  ],
+  "year": 1999,
+  "downloads": 66093,
+  "rating": 7.4,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff633"
+  },
+  "name": "Mythical Ascension",
+  "genres": [
+    "Multiplayer",
+    "RPG"
+  ],
+  "year": 1991,
+  "downloads": 95713,
+  "rating": 1.4,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff634"
+  },
+  "name": "Enchanted Kingdom",
+  "genres": [
+    "Battle Royale",
+    "Multiplayer",
+    "RPG"
+  ],
+  "year": 1986,
+  "downloads": 44701,
+  "rating": 1.3,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff635"
+  },
+  "name": "Surreal Kingdom",
+  "genres": [
+    "Platformer",
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 1998,
+  "downloads": 71587,
+  "rating": 8.4,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff636"
+  },
+  "name": "Eternal Eclipse",
+  "genres": [
+    "Singleplayer",
+    "RPG",
+    "Defense"
+  ],
+  "year": 1987,
+  "downloads": 22442,
+  "rating": 1.4,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff637"
+  },
+  "name": "Mechanical Horror",
+  "genres": [
+    "Survival",
+    "Singleplayer",
+    "Defense"
+  ],
+  "year": 2007,
+  "downloads": 75212,
+  "rating": 7.2,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff638"
+  },
+  "name": "Raging Labyrinth",
+  "genres": [
+    "Singleplayer",
+    "Shooter",
+    "Survival"
+  ],
+  "year": 1981,
+  "downloads": 97190,
+  "rating": 9.2,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff639"
+  },
+  "name": "Mysterious Destiny",
+  "genres": [
+    "Singleplayer",
+    "Horror",
+    "Defense"
+  ],
+  "year": 1997,
+  "downloads": 62108,
+  "rating": 8.2,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff63a"
+  },
+  "name": "Timeless Mystery",
+  "genres": [
+    "Singleplayer",
+    "Shooter",
+    "Platformer",
+    "RPG"
+  ],
+  "year": 2022,
+  "downloads": 62007,
+  "rating": 8.7,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff63b"
+  },
+  "name": "Infinite Phantoms",
+  "genres": [
+    "Singleplayer",
+    "Horror",
+    "RPG"
+  ],
+  "year": 1986,
+  "downloads": 68172,
+  "rating": 4.5,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff63c"
+  },
+  "name": "Celestial Exiles",
+  "genres": [
+    "Singleplayer",
+    "Platformer"
+  ],
+  "year": 2015,
+  "downloads": 11262,
+  "rating": 1.5,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff63d"
+  },
+  "name": "Ancient Titans",
+  "genres": [
+    "Battle Royale",
+    "Horror",
+    "Multiplayer"
+  ],
+  "year": 1982,
+  "downloads": 73194,
+  "rating": 1.6,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff63e"
+  },
+  "name": "Cursed World",
+  "genres": [
+    "Multiplayer",
+    "Survival"
+  ],
+  "year": 2003,
+  "downloads": 88674,
+  "rating": 1.5,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff63f"
+  },
+  "name": "Titanic Heroes",
+  "genres": [
+    "Shooter",
+    "Horror",
+    "Multiplayer"
+  ],
+  "year": 1985,
+  "downloads": 70603,
+  "rating": 9.4,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff640"
+  },
+  "name": "Dark Quest",
+  "genres": [
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 1994,
+  "downloads": 89790,
+  "rating": 8.3,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff641"
+  },
+  "name": "Timeless Conquest",
+  "genres": [
+    "Singleplayer",
+    "Survival"
+  ],
+  "year": 2003,
+  "downloads": 27733,
+  "rating": 5.3,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff642"
+  },
+  "name": "Cursed Fantasy",
+  "genres": [
+    "Singleplayer",
+    "Horror",
+    "Platformer"
+  ],
+  "year": 2005,
+  "downloads": 67058,
+  "rating": 9.9,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff643"
+  },
+  "name": "Celestial Pioneers",
+  "genres": [
+    "Battle Royale",
+    "Multiplayer"
+  ],
+  "year": 2014,
+  "downloads": 1117,
+  "rating": 1.3,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff644"
+  },
+  "name": "Titanic Reckoning",
+  "genres": [
+    "Singleplayer",
+    "Platformer"
+  ],
+  "year": 2011,
+  "downloads": 61707,
+  "rating": 6.6,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff645"
+  },
+  "name": "Steampunk Kingdom",
+  "genres": [
+    "Battle Royale",
+    "Multiplayer"
+  ],
+  "year": 2016,
+  "downloads": 25870,
+  "rating": 8.8,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff646"
+  },
+  "name": "Crimson Horror",
+  "genres": [
+    "Shooter",
+    "Horror",
+    "Multiplayer"
+  ],
+  "year": 2017,
+  "downloads": 86939,
+  "rating": 2.4,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff647"
+  },
+  "name": "Enchanted Horror",
+  "genres": [
+    "Platformer",
+    "Multiplayer"
+  ],
+  "year": 2013,
+  "downloads": 47273,
+  "rating": 3.8,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff648"
+  },
+  "name": "Vengeful Legacy",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale",
+    "Survival"
+  ],
+  "year": 2020,
+  "downloads": 68139,
+  "rating": 8.6,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff649"
+  },
+  "name": "Dark Guardians",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale",
+    "Horror",
+    "Defense"
+  ],
+  "year": 1997,
+  "downloads": 55682,
+  "rating": 2.3,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff64a"
+  },
+  "name": "Sorcerer's Blade",
+  "genres": [
+    "Battle Royale",
+    "Multiplayer",
+    "Survival"
+  ],
+  "year": 1991,
+  "downloads": 75402,
+  "rating": 7.1,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff64b"
+  },
+  "name": "Legendary Reckoning",
+  "genres": [
+    "Battle Royale",
+    "Platformer",
+    "Multiplayer",
+    "Shooter"
+  ],
+  "year": 2011,
+  "downloads": 88311,
+  "rating": 5.7,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff64c"
+  },
+  "name": "Radiant Saga",
+  "genres": [
+    "Multiplayer",
+    "Horror",
+    "Platformer",
+    "RPG"
+  ],
+  "year": 1987,
+  "downloads": 63436,
+  "rating": 4.6,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff64d"
+  },
+  "name": "Virtual Titans",
+  "genres": [
+    "Platformer",
+    "Multiplayer"
+  ],
+  "year": 2005,
+  "downloads": 89877,
+  "rating": 3.6,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff64e"
+  },
+  "name": "Raging Cataclysm",
+  "genres": [
+    "Singleplayer",
+    "Platformer"
+  ],
+  "year": 2008,
+  "downloads": 99253,
+  "rating": 1,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff64f"
+  },
+  "name": "Mysterious Phantoms",
+  "genres": [
+    "Platformer",
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 1995,
+  "downloads": 85853,
+  "rating": 8.5,
+  "min_age": 18
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff650"
+  },
+  "name": "Virtual Eclipse",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale"
+  ],
+  "year": 2007,
+  "downloads": 60303,
+  "rating": 4.1,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff651"
+  },
+  "name": "Sorcerer's Apocalypse",
+  "genres": [
+    "Singleplayer",
+    "Horror",
+    "Platformer",
+    "RPG"
+  ],
+  "year": 1996,
+  "downloads": 3241,
+  "rating": 6.2,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff652"
+  },
+  "name": "Mysterious Horror",
+  "genres": [
+    "Shooter",
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 2015,
+  "downloads": 9147,
+  "rating": 3.6,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff653"
+  },
+  "name": "Heroic Pirates",
+  "genres": [
+    "Singleplayer",
+    "Platformer",
+    "RPG",
+    "Survival"
+  ],
+  "year": 2000,
+  "downloads": 46397,
+  "rating": 4,
+  "min_age": 0
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff654"
+  },
+  "name": "Surreal Dungeon",
+  "genres": [
+    "Singleplayer",
+    "Horror"
+  ],
+  "year": 2020,
+  "downloads": 80306,
+  "rating": 4.2,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff655"
+  },
+  "name": "Epic Heroes",
+  "genres": [
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 2011,
+  "downloads": 36807,
+  "rating": 9.8,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff656"
+  },
+  "name": "Celestial Fantasy",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale",
+    "Horror",
+    "Survival"
+  ],
+  "year": 1989,
+  "downloads": 47487,
+  "rating": 4.2,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff657"
+  },
+  "name": "Sorcerer's Magic",
+  "genres": [
+    "Multiplayer",
+    "RPG"
+  ],
+  "year": 1992,
+  "downloads": 9217,
+  "rating": 4.5,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff658"
+  },
+  "name": "Heroic Pirates",
+  "genres": [
+    "Shooter",
+    "Multiplayer",
+    "RPG"
+  ],
+  "year": 1984,
+  "downloads": 71152,
+  "rating": 2.1,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff659"
+  },
+  "name": "Epic Titans",
+  "genres": [
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 2003,
+  "downloads": 22345,
+  "rating": 9,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff65a"
+  },
+  "name": "Mighty Guardians",
+  "genres": [
+    "Multiplayer",
+    "Defense"
+  ],
+  "year": 2011,
+  "downloads": 60104,
+  "rating": 2.9,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff65b"
+  },
+  "name": "Radiant Magic",
+  "genres": [
+    "Singleplayer",
+    "Shooter"
+  ],
+  "year": 1982,
+  "downloads": 71174,
+  "rating": 5.5,
+  "min_age": 6
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff65c"
+  },
+  "name": "Mythical Armada",
+  "genres": [
+    "Singleplayer",
+    "Horror",
+    "Survival"
+  ],
+  "year": 2015,
+  "downloads": 70341,
+  "rating": 2.4,
+  "min_age": 12
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff65d"
+  },
+  "name": "Lost Requiem",
+  "genres": [
+    "Singleplayer",
+    "Platformer",
+    "RPG",
+    "Survival"
+  ],
+  "year": 2017,
+  "downloads": 33568,
+  "rating": 7.5,
+  "min_age": 16
+},
+{
+  "_id": {
+    "$oid": "65314f779b5658b66ccff65e"
+  },
+  "name": "Mythical Saga",
+  "genres": [
+    "Singleplayer",
+    "Battle Royale",
+    "Platformer",
+    "Defense"
+  ],
+  "year": 1984,
+  "downloads": 12066,
+  "rating": 9.6,
+  "min_age": 12
+}]
